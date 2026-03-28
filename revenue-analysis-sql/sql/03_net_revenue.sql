@@ -2,7 +2,6 @@
 Purpose: Calculate net revenue.
 Definition:
 - Includes all rows, including returns and cancellations
-- CAST for readability
 */
 
 SELECT
